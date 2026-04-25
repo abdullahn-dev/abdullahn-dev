@@ -13,15 +13,15 @@ I am a recent Computer Science graduate (BSCS) specializing in building intellig
 
 ### 🚀 Featured Engineering Projects
 
-* **[AI-Powered USB Firewall](link-to-repo):** * *Role:* Lead Developer
+* **[AI-Powered USB Firewall](https://github.com/abdullahn-dev/ai-usb-firewall):** * *Role:* Lead Developer
   * *Tech:* Python, Machine Learning
   * *Impact:* Engineered a proactive defense system utilizing ML models to identify and block suspicious USB file signatures in real-time, preventing zero-day hardware threats.
 
-* **[Medical Zone - Enterprise App](link-to-repo):** * *Role:* Full-Stack Android Developer
+* **[Medical Zone - Enterprise App](https://github.com/abdullahn-dev/MedicalZone):** * *Role:* Full-Stack Android Developer
   * *Tech:* Java, Kotlin, Android SDK, Firebase
   * *Impact:* Designed a robust 3-module (Admin/Doctor/Patient) digital healthcare application leveraging Firebase for encrypted data handling and real-time synchronization.
 
-* **[n8n AI Automation Workflows](link-to-repo):** *(Note: Create a repo for this)*
+* **[n8n AI Automation Workflows](link-to-repo):** *(Repository coming soon)*
   * *Tech:* n8n, Python, REST APIs
   * *Impact:* Developing custom, autonomous agent workflows to streamline data processing and system automation tasks.
 
